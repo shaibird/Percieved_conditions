@@ -1,0 +1,1 @@
+The goal is to reate a form to collect data about the percieved conditons for bouldering. The user input will be compard to the weather data in an attempt to define "ideal" climbing conditions so when making recommendations best places to climb, we will have accurate data on what makes conditions good.
